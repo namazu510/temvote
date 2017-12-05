@@ -20,3 +20,4 @@ $ export TEMVOTE_THINGWORX_APP_KEY=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 $ touch ./secret.conf
 $ ./temvote
 ```
+
